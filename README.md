@@ -1,6 +1,13 @@
-# OCI VS AWS 속도 비교
+## OCI VS AWS 속도 비교
 
+- [OCI 이미지 로딩 테스트 페이지 바로가기](http://140.238.15.71:8081/)
+- 백엔드 평균 응답 시간 : 약 90ms
+- 평균 이미지 로딩 시간 : 약 7.5초
 <img width=700 src="https://github.com/yonghun16/coding_school_oci/blob/main/images/oci.gif?raw=true">
+
+- [AWS 이미지 로딩 테스트 페이지 바로가기](https://shimmering-moxie-d45a15.netlify.app/)
+- 백엔드 평균 응답 시간 : 약 700ms
+- 평균 이미지 로딩 시간 : 약 16.5초
 <img width=700 src="https://github.com/yonghun16/coding_school_oci/blob/main/images/aws.gif?raw=true">
 
 
@@ -17,7 +24,7 @@
   - backend page : AWS EC2 Free Tier
   - image source : AWS S3 Free Tier
 
-- 무료티어 스펙 비교 (2025년 기준)
+## 무료티어 스펙 비교 (2025년 기준)
 
 | 항목                | OCI (Oracle Cloud Free Tier)                                    | AWS (AWS Free Tier)                                          |
 |--------------------|-----------------------------------------------------------------|--------------------------------------------------------------|
