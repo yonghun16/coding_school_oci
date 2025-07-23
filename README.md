@@ -18,11 +18,14 @@
   - frontend page : OCI Free Tier
   - backend page : Root Block Volume in the OCI Free Tier
   - image source : Root Block Volume in the OCI Free Tier
+  - <img width=400 src="https://github.com/yonghun16/coding_school_oci/blob/main/images/oci.png?raw=true">
+
  
 - AWS 테스트 배포 환경
   - frontend page : Netlify
   - backend page : AWS EC2 Free Tier
   - image source : AWS S3 Free Tier
+  - <img width=400 src="https://github.com/yonghun16/coding_school_oci/blob/main/images/aws.png?raw=true">
 
 ## 무료티어 스펙 비교 (2025년 기준)
 
