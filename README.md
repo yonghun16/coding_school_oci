@@ -18,11 +18,6 @@
     제이프로는 초등 고학년부터 중·고등학생, 코딩 입문자까지 누구나 쉽게 접근할 수 있으며, 소프트웨어 교육의 새로운 접근 방식을 제시합니다.</li>
 </ul>
 
-<br />
-<h4>Powerd by</h4>
-<div>
-<!-- JayPro --><img src="https://img.shields.io/badge/JayPro-252F38?style=flat&logo=JayPro&logoColor=white" />
-</div>
 
 ## OCI(instance, storage, DB 통합) VS AWS(분산 서비스) 속도 비교
 
@@ -53,7 +48,7 @@
   - image source : AWS S3 Free Tier
   - <img width=400 src="https://github.com/yonghun16/coding_school_oci/blob/main/images/aws.png?raw=true">
 
-## 무료티어 스펙 비교 (2025년 기준)
+### 무료티어 스펙 비교 (2025년 기준)
 
 | 항목                | OCI (Oracle Cloud Free Tier)                                    | AWS (AWS Free Tier)                                          |
 |--------------------|-----------------------------------------------------------------|--------------------------------------------------------------|
@@ -67,3 +62,7 @@
 | **모니터링/알림**     | 500만 메트릭, 1GB 로그 (Always Free)                               | CloudWatch: 10개 지표, 5GB 로그 (12개월 한정)                     |
 | **기타**            | ARM + x86 VM 선택 가능                                            | ARM (Graviton) 사용 시 일부 프리티어 불가                          |
 
+
+### Powerd by
+<!-- OCI --><a href="https://www.oracle.com/cloud/"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
+<!-- AWS --><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=AmazonAWS&logoColor=white" /></a>	
