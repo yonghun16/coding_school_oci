@@ -2,12 +2,12 @@
 
 - OCI  http://140.238.15.71:8081/ 
 - 백엔드 평균 응답 시간 : 약 90ms
-- 평균 이미지 로딩 시간 : 약 7.5초
+- 평균 이미지 로딩 시간 : 약 8초
 <img width=400 src="https://github.com/yonghun16/coding_school_oci/blob/main/images/oci.gif?raw=true">
 
 - AWS  https://shimmering-moxie-d45a15.netlify.app/
 - 백엔드 평균 응답 시간 : 약 700ms
-- 평균 이미지 로딩 시간 : 약 16.5초
+- 평균 이미지 로딩 시간 : 약 14.5초
 <img width=400 src="https://github.com/yonghun16/coding_school_oci/blob/main/images/aws.gif?raw=true">
 
 
@@ -18,11 +18,14 @@
   - frontend page : OCI Free Tier
   - backend page : Root Block Volume in the OCI Free Tier
   - image source : Root Block Volume in the OCI Free Tier
+  - <img width=400 src="https://github.com/yonghun16/coding_school_oci/blob/main/images/oci.png?raw=true">
+
  
 - AWS 테스트 배포 환경
   - frontend page : Netlify
   - backend page : AWS EC2 Free Tier
   - image source : AWS S3 Free Tier
+  - <img width=400 src="https://github.com/yonghun16/coding_school_oci/blob/main/images/aws.png?raw=true">
 
 ## 무료티어 스펙 비교 (2025년 기준)
 
